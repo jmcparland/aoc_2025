@@ -1,0 +1,66 @@
+# aoc-specific
+input*
+test*
+explainer*
+excerpt*
+puzzle*
+
+# Common Lisp compiled files
+*.fasl
+*.dfsl
+*.cfsl
+*.fas
+*.lib
+*.x86f
+*.lx64fsl
+*.lx32fsl
+*.dx64fsl
+*.dx32fsl
+*.nfasl
+*.ufsl
+*.fsl
+*.dxl
+*.lo
+*.la
+*.a
+*.o
+*.so
+
+# ASDF cache
+*.cache/
+
+# Quicklisp
+quicklisp/
+.quicklisp/
+
+# SBCL
+*.sbcl
+
+# SLIME/SWANK
+.slime/
+slime-*
+*.swank
+
+# Emacs
+*~
+\#*\#
+.\#*
+.DS_Store
+
+# Build outputs
+build/
+bin/
+dist/
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Local configuration
+*.local
+local-config.lisp
