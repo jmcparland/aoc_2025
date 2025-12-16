@@ -1,5 +1,19 @@
 # Advent of Code 2025
 
+This year I explored Elixir early in the year and Common Lisp later in the year. 
+My loose goal was to answer all puzzles using Common Lisp while looking for any BEAM/OTP opportunity (highly concurrent processing) that would warrant an Elixir run. 
+Alas, it was mostly Common Lisp.
+
+I say that with a little regret: Elixir was a refreshing pleasure when twice I pulled it out. 
+With neither fluency in the language nor familiarity with any helpful libraries, Common Lisp was challenging -- maybe more so than Haskell last year.
+
+The event was only 12 Days this year. A hiccup on Day 9 or 10 combined with some family activities put me behind. 
+Completed the work on 15 December.
+
+FWIW, the commaraderie and approach sharing on Reddit is wonderful, but the _technical_ moderation is a real bucket of cold water. 
+Next year, maybe I'll skip it.
+
+
 URL: https://adventofcode.com/
 
 |    Day    | Title                                                       | Comments                                                                     |       Language       |   Part 1    | Part 2      |
